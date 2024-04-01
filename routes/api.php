@@ -1,11 +1,11 @@
 <?php
 
-use App\Http\Controllers\Backend\ActividadController;
-use App\Http\Controllers\Backend\AnimalController;
-use App\Http\Controllers\Backend\CuidadorAnimalController;
-use App\Http\Controllers\Backend\CuidadorController;
-use App\Http\Controllers\Backend\EspecieController;
-use App\Http\Controllers\Backend\RecintoController;
+use App\Http\Controllers\ActividadController;
+use App\Http\Controllers\AnimalController;
+use App\Http\Controllers\CuidadorAnimalController;
+use App\Http\Controllers\CuidadorController;
+use App\Http\Controllers\EspecieController;
+use App\Http\Controllers\RecintoController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
